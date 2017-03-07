@@ -1,0 +1,25 @@
+{
+  "name": "scrumtastic",
+  "version": "1.0.0",
+  "description": " A SCRUM software development app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-outrage24.git"
+  },
+  "keywords": [
+    "scrum"
+  ],
+  "author": "Brent Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-outrage24/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-outrage24#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
